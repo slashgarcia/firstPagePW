@@ -1,0 +1,4 @@
+[1005/043602.431:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/001337.230:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/112622.998:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/123245.576:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aicragh\AppData\Local\Google\Chrome Beta\User Data\Crashpad\attachments\691916a0-0b61-4e0a-8ee3-1b77bba76c7e: El sistema no puede encontrar la ruta especificada. (0x3)
